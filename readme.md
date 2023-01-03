@@ -1,1 +1,1 @@
-A simple vector library
+# A simple vector library
