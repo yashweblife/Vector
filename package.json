@@ -1,5 +1,5 @@
 {
-  "name": "vector",
+  "name": "@codemylife/vector",
   "version": "1.0.0",
   "description": "A simple vector library",
   "main": "index.js",
