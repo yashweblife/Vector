@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/yashweblife/vector.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["typescript", "javascript","vector"],
+  "author": "codemylife",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yashweblife/vector/issues"
